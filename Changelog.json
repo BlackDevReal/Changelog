@@ -1,20 +1,20 @@
 {
   "changes": [
     {
-      "version": "0.1",
-      "date": "07.02.2025",
-      "changeList": [
-        "Changed Buttons",
-        "added Discord IPC",
-        "GUI Changes"
-      ]
-    },
-    {
       "version": "0.2",
       "date": "08.02.2025",
       "changeList": [
         "Added Changelog",
         "Added new Buttons"
+      ]
+    },
+    {
+      "version": "0.3",
+      "date": "09.02.2025",
+      "changeList": [
+        "Test",
+        "Test",
+        "Test"
       ]
     }
   ]
